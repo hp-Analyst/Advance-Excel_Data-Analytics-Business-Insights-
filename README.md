@@ -64,14 +64,6 @@ The ultimate goal? **Turn messy Excel files into powerful business decisions** �
 
 ---
 
-## 📸 Dashboard Sneak Peek
-
-<img src="images/dashboard_sample.png" alt="Excel Dashboard Preview" width="100%"/>
-
-> *Replace this with your actual dashboard screenshot (Excel sheet, chart overview, etc.)*
-
----
-
 ## 📍 Highlighted Insights
 
 ### 🛍 Order Behavior
