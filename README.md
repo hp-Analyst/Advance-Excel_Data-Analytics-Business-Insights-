@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/MPZtuvxQX1N0g/giphy.gif" width="200px" alt="Data Analytics Animation"/>
   <h1>Capstone Project: Retail Optimization via Data Analytics</h1>
   <p><i>From raw data to business impact — a hands-on deep dive into retail intelligence</i></p>
 </div>
